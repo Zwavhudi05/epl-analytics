@@ -75,8 +75,6 @@ Match-level statistics from the 2020–2024 EPL seasons sourced via Sky Sports m
 
 ---
 
-## Author
-
 **Zwavhudi Mudogwa**  
 Data Analytics | Cloud | IT Support  
 📧 mudogwa.zwavhu@gmail.com  

@@ -50,29 +50,6 @@ A data analytics project exploring four seasons of English Premier League match 
 
 ---
 
-## How to Run It Yourself
-
-**1. Clone the repo**
-```bash
-git clone https://github.com/YOUR_USERNAME/epl-analytics.git
-cd epl-analytics
-```
-
-**2. Install dependencies**
-```bash
-pip install pandas matplotlib numpy
-```
-
-**3. Add the dataset**
-
-Place `epl_stats.csv` in the root folder (same level as `epl_analysis.py`).
-
-**4. Run the script**
-```bash
-python epl_analysis.py
-```
-
-Charts are saved automatically to the `output/` folder.
 
 ---
 

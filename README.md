@@ -58,7 +58,7 @@ A data analytics project exploring four seasons of English Premier League match 
 ```
 epl-analytics/
 ├── epl_analysis.py        # Main analysis script
-├── epl_stats.csv          # Dataset (not tracked — add your own copy)
+├── epl_stats.csv          
 ├── output/
 │   ├── fig1_histogram.png
 │   ├── fig2_top10_teams.png
